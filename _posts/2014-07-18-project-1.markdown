@@ -2,10 +2,8 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: Base2.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Mars 2022
+description: <p align="justify"><font size="5"><strong>Cr&eacute;ation et utilisation d'une base de donn&eacute;es immobili&egrave;re avec SQL</strong></font><font size="4"> <br><em>Projet r&eacute;alis&eacute; dans le cadre de ma formation Openclassrooms</em><br> <br><strong>Mise en situation</strong><br> Vous &ecirc;tes Data Analyst chez Laplace Immo, un r&eacute;seau national d'agences immobili&egrave;res. Votre mission consiste &agrave; cr&eacute;er la base de donn&eacute;es permettant de collecter les transactions immobili&egrave;res et fonci&egrave;res en France. Vous utiliserez ensuite cette base pour analyser le march&eacute; et aider les diff&eacute;rentes agences &agrave; mieux accompagner leurs clients.<br> <br><strong>Donn&eacute;es</strong><br>&middot Data_bien.csv<br>&middot Data_commune.csv<br>&middot Data_mutation.csv<br>&middot Data_mutation_bien.csv <br> <br><strong>&Eacute;tapes</strong><br>&middot Cr&eacute;ation d'un dictionnaire de donn&eacute;es<br>&middot Cr&eacute;ation du mod&egrave;le conceptuel des donn&eacute;es<br>&middot Cr&eacute;ation du sch&eacute;ma relationnel normalis&eacute; en 3NF de la base de donn&eacute;es<br>&middot Impl&eacute;mentation de la basse de donn&eacute;e<br>&middot R&eacute;alisation de diff&eacute;rentes requ&ecirc;tes <br> <br><strong>Comp&eacute;tences</strong><br>&middot Cr&eacute;er le sch&eacute;ma d'une base de donn&eacute;es<br>&middot Effectuer des requ&ecirc;tes SQL pour r&eacute;pondre &agrave; une probl&eacute;matique m&eacute;tier<br>&middot Mettre &agrave; jour un catalogue de donn&eacute;es<br>&middot Cr&eacute;er des tables dans une base de donn&eacute;es<br>&middot Charger des donn&eacute;es dans une base de donn&eacute;es <br> <br></font><font size="5"><a href="projet_doc/Presentation_P3.pdf" target="_blank">Pr&eacutesentation</a></font></p>
 ---

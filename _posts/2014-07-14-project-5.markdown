@@ -2,10 +2,8 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: eau2.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Octobre 2022
+description: <p align="justify"><font size="5"><strong>R&eacute;alisation d'une &eacute;tude sur l'eau potable avec le logiciel Tableau</strong><br></font><font size="4"><em>Projet r&eacute;alis&eacute; dans le cadre de ma formation Openclassrooms</em><br> <br><strong>Mise en situation</strong><br>Vous &ecirc;tes consultant Data Analyst en mission dans l'ONG DWFA (Drinking Water For All). Vous &ecirc;tes missionn&eacute; pour r&eacute;aliser un dashboard pr&eacute;sentant une vue globale de l'acc&egrave;s &agrave; l'eau potable dans le monde, permettant d'identifier les pays qui rencontrent des difficult&eacute;s d'acc&egrave;s &agrave; l'eau potable. &Agrave; l'aide du logiciel Tableau, vous devez cr&eacute;er une histoire Tableau compos&eacute; de trois vues (mondiale, continentale et par pays).<br> <br><strong>Donn&eacute;es brutes</strong><br>&middot BasicAndSafelyManagedDrinkingWaterServices.csv<br>&middot MortalityRateAttributedToWater.csv<br>&middot PoliticalStability.csv<br>&middot Population.csv<br>&middot RegionCountry.csv<br> <br><strong>&Eacute;tapes</strong><br>&middot Pr&eacute;paration des donn&eacute;es avec Tableau Prep<br>&middot Cr&eacute;ation de trois vues (mondiale, continentale et par pays)<br>&middot Cr&eacute;ation d'une histoire Tableau<br> <br><strong>Comp&eacute;tences</strong><br>&middot Analyser un besoin client pour formuler des questions analytiques<br>&middot Cr&eacute;er un tableau de bord r&eacute;pondant &agrave; des questions analytiques<br>&middot G&eacute;n&eacute;rer des graphiques adapt&eacute;s aux types de donn&eacute;es<br>&middot Synth&eacute;tiser des r&eacute;sultats &agrave; destination d'un client<br><br></font><font size="5"><a href="https://public.tableau.com/app/profile/leclerc5811/viz/tudedaccsleaupotable_16648096624230/Histoire1" target="_blank">Histoire Tableau</strong></a> 
 ---

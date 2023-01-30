@@ -2,10 +2,8 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: livres3.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Ao&ucirct 2022
+description: <p align="justify"><font size="5"><strong>Analyse des ventes d'une librairie g&eacute;n&eacute;raliste en ligne</strong><br></font><font size="4"><em>Projet r&eacute;alis&eacute; dans le cadre de ma formation Openclassrooms</em><br> <br><strong>Mise en situation</strong><br>Vous &ecirc;tes consultant Data Analyst chez Lapage, une grande librairie g&eacute;n&eacute;raliste qui a d&eacute;cid&eacute; depuis 2 ans d'ouvrir un site de vente en ligne. L'entreprise souhaite faire le point apr&egrave;s ces deux ans d'exercice, et pouvoir analyser ses points forts, points faibles, les comportements des clients, etc.<br> <br><strong>Donn&eacute;es brutes</strong><br>&middot customers.csv informations clients (identifiant, sexe, date de naissance)<br>&middot products.csv informations sur les produits (prix, cat&eacute;gorie)<br>&middottransactions.csv informations sur les transactions (id_client, id_produit, date de transaction, ...)<br> <br><strong>&Eacute;tapes</strong><br>&middot Nettoyage des donn&eacute;es<br>&middot Analyse des diff&eacute;rents indicateurs de vente<br>&middot Analyse plus cibl&eacute;e sur les clients<br> <br><strong>Comp&eacute;tences</strong><br>&middot R&eacute;aliser un test statistique<br>&middot R&eacute;aliser une analyse bivari&eacute;e pour interpr&eacute;ter des donn&eacute;es<br>&middot Analyser des s&eacute;ries temporelles<br> <br></font><font size="5"><a href="https://github.com/Jordan91540/Jordan915402.github.io/blob/master/projet_doc/Nettoyage_librairie_Notebook.ipynb" target="_blank">Notebook 1</a><br><a href="https://github.com/Jordan91540/Jordan915402.github.io/blob/master/projet_doc/Analyse_librairie_Notebook_.ipynb" target="_blank">Notebook 2</a></font></p>
 ---

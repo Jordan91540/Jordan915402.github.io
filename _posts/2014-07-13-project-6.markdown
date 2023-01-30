@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2014-07-13
+img: poulets.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Novembre 2022
+description: <p align="justify"><font size="5"><strong>&Eacute;tude de march&eacute; pour l'exportation de volailles</strong><br></font><font size="4"><em>Projet r&eacute;alis&eacute; dans le cadre de ma formation Openclassrooms</em><br> <br><strong>Mise en situation</strong><br>Vous travaillez chez &quot;La poule qui chante&quot;, une entreprise fran&ccedil;aise d'agroalimentaire qui souhaite se d&eacute;velopper &agrave; l'international. Votre objectif sera de proposer une premi&egrave;re analyse des groupements de pays que l'on peut cibler pour exporter nos poulets.<br> <br><strong>Donn&eacute;es brutes</strong><br>&middot DisponibiliteAlimentaire_2017.csv site FAO<br>&middot Population_2000_2018.csv site FAO<br>&middot PIB.csv site FAO<br>&middot Ratio_prot_animale.csv site FAO<br>&middot Stabilit&eacute;_politique.csv site FAO<br> <br><strong>&Eacute;tapes</strong><br>&middot Nettoyage des donn&eacute;es<br>&middot Centrage-r&eacute;duction des donn&eacute;es<br>&middot Analyse en composantes principales<br>&middot Clustering (classification ascendante hi&eacute;rarchique et Kmeans)<br> <br><strong>Comp&eacute;tences</strong><br>&middot Explorer des donn&eacute;es pour synth&eacute;tiser des variables<br>&middot Effectuer un clustering simple<br><br></font><font size="5"><a href="https://github.com/Jordan91540/Jordan915402.github.io/blob/master/projet_doc/Etude_marche_preparation_nettoyage_analyse_exploratoire.ipynb" target="_blank">Notebook 1</a><br><a href="https://github.com/Jordan91540/Jordan915402.github.io/blob/master/projet_doc/Etude_marche_clustering_visualisations.ipynb" target="_blank">Notebook 2</a></font></p>
 ---
+

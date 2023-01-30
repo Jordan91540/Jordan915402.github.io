@@ -2,10 +2,8 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: Nutrition3.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Mai 2022
+description: <p align="justify"><font size="5"><strong>&Eacute;tude sur la sous-nutrition dans le monde en 2017</strong><br></font><font size="4"><em>Projet r&eacute;alis&eacute; dans le cadre de ma formation Openclassrooms</em><br> <br><strong>Mise en situation</strong><br>Vous venez d'int&eacute;grer une &eacute;quipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO), en tant que data analyst. Votre &eacute;quipe s'est vu confier la mission de r&eacute;aliser une &eacute;tude de grande ampleur sur le th&egrave;me de la sous-nutrition dans le monde et elle compte sur vous pour lui donner un panorama de la situation. Vous travaillerez &agrave; partir de donn&eacute;es fournies par la FAO.<br> <br><strong>Donn&eacute;es brutes</strong><br>&middot aide_alimentaire.csv site FAO<br>&middot dispo_alimentaire.csv site FAO<br>&middot population.csv site FAO<br>&middot sous_nutrition.csv site FAO<br>&middot code_iso.csv site FAO<br> <br><strong>&Eacute;tapes</strong><br>&middot Nettoyage des donn&eacute;es<br>&middot Analyse des donn&eacute;es et interpr&eacute;tation des r&eacute;sultats<br> <br><strong>Comp&eacute;tences</strong><br>&middot Utiliser des librairies sp&eacute;cialis&eacute;es pour les traitements data<br>&middot Cr&eacute;er un environnement de d&eacute;veloppement<br>&middot Manipuler des Dataframes<br> <br></font><font size="5"><a href="https://github.com/Jordan91540/Jordan915402.github.io/blob/master/projet_doc/Etude_sante_publique_Notebook_.ipynb" target="_blank">Notebook</a></font></p>
 ---

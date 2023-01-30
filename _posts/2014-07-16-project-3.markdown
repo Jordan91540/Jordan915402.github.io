@@ -2,10 +2,8 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: Vin3.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Juin 2022
+description: <p align="justify"><font size="5"><strong>Optimisez la gestion des donn&eacute;es d'une boutique</strong><br></font><font size="4"><em>Projet r&eacute;alis&eacute; dans le cadre de ma formation Openclassrooms</em><br> <br><strong>Mise en situation</strong><br>Vous commencez votre mission en tant que data analyst freelance chez BottleNeck, un marchand de vin tr&egrave;s prestigieux. Votre mission se d&eacute;compose en trois parties<br> <br>&middot R&eacute;aliser un rapprochement entre l'export de l'ERP et un export d'une table de l'outil CMS contenant les informations des produits commercialis&eacute;s en ligne<br>&middot Calculer le chiffre d'affaires par produit, ainsi que le total du chiffre d'affaires r&eacute;alis&eacute; en ligne<br>&middot R&eacute;aliser une analyse sur le prix des produits afin de d&eacute;tecter d'&eacute;ventuelles valeurs aberrantes<br> <br><strong>Donn&eacute;es brutes</strong><br>&middot erp.csv fichier issu de l'ERP contenant les r&eacute;f&eacute;rences produits, le prix, et l'&eacute;tat de stock<br>&middot web.csv fichier de la table produit de la plateforme de vente en ligne contenant des informations sur les produits (nom, descriptions, nombre de ventes, ...)<br>&middot liaison.csv fichier qui liste les product_id de l'erp et leur r&eacute;f&eacute;rence dans le fichier web<br> <br><strong>&Eacute;tapes</strong><br>&middot Nettoyage des donn&eacute;es<br>&middot Calcul des chiffres d'affaires<br>&middot Analyse des prix des produits<br> <br><strong>Comp&eacute;tences</strong><br>&middot Classifier diff&eacute;rents types de donn&eacute;es<br>&middot G&eacute;rer les erreurs et les incoh&eacute;rences pr&eacute;sentes sur des donn&eacute;es stock&eacute;es<br>&middot R&eacute;aliser une analyse univari&eacute;e pour interpr&eacute;ter des donn&eacute;es<br> <br></font><font size="5"><a href="https://github.com/Jordan91540/Jordan915402.github.io/blob/master/projet_doc/Gestion_d_une_boutique_en_ligne_Notebook.ipynb" target="_blank">Notebook</a></font></p>
 ---
